@@ -1,0 +1,15 @@
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\bin\Debug\net6.0\Task66.exe
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\bin\Debug\net6.0\Task66.deps.json
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\bin\Debug\net6.0\Task66.dll
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\bin\Debug\net6.0\Task66.pdb
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.dll
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\refint\Task66.dll
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.pdb
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+C:\Users\Moonlight\Desktop\C#\HomeWork\-9.-\Lesson9\Task66\obj\Debug\net6.0\ref\Task66.dll
